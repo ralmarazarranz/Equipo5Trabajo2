@@ -3,7 +3,7 @@ html,body {
 	background:white;
 }
 
-header {
+header {color: red;
 		
 	display:block;
 	background:#d7e0e9;
@@ -16,7 +16,7 @@ section {
 	overflow: auto;
 	padding-bottom: 60px;
 	padding-top:30px;
-	color: black;
+	color: red;
 }
 
 
@@ -28,5 +28,5 @@ footer {
 	clear: both;
 	background: #d7e0e9;
 	text-align: center;
-	color: black;
+	color: red;
 }
